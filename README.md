@@ -7,7 +7,7 @@ AT&T is looking for an automated way of detecting spams to protect their sms use
 ## Context and goals of this study:
 
 The objective of this project is to create a spam detector for AT&T, based on a dataset with labels "spam" or "ham" (being non spams).
-We are thus dealing with text, and use a machine learning model. In this context deep learning models will be applied, and more precisely Natural Language Processing.
+We are thus dealing with prediction on non structured text. In this context Natural Language Processing with deep learning will be applied.
 
 The below models have been applied :
 -	A simple deep learning model with 2 successive dense layers
