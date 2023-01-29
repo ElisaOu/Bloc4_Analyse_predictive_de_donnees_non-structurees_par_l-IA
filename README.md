@@ -14,7 +14,7 @@ The below models have been applied :
 -	The above model tuned with dropout
 -	BERT transfer learning. Helper : https://tfhub.dev/tensorflow/bert_en_uncased_L-12_H-768_A-12/4 
 
-# Available files:
+## Available files:
 - AT&T_FINAL.ipynb: notebook containing AT&T project
 - spam.csv: source dataset
 
