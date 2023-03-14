@@ -1,7 +1,5 @@
 # Bloc N° 4 : Analyse prédictive de données non-structurées par l'intelligence artificielle.
 
-[Video explain - Bloc 4](https://share.vidyard.com/watch/EabmuYkViNyjstKvDsAPTg?)
-
 # AT&T Spam detector
 AT&T is looking for an automated way of detecting spams to protect their sms users.
 ## Context and goals of this study:
